@@ -2,6 +2,9 @@
 
 Interactive result monetisation platform with futuristic UI, payment flow, dashboards, and tier-based content unlocking.
 
+## Landing Page
+https://resultmonetisation.netlify.app/
+
 ## Live Demo
 https://resultmonetisation3314.netlify.app/
 
